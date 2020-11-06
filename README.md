@@ -1,10 +1,13 @@
 # map-test
 
 > A Vue.js project
-> add your google api key to index.html
+l
 ## Build Setup
 
 ``` bash
+# google api key
+add your google api key to index.htm
+
 # install dependencies
 npm install
 
