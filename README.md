@@ -1,7 +1,7 @@
 # map-test
 
 > A Vue.js project
-
+> add your google api key to index.html
 ## Build Setup
 
 ``` bash
